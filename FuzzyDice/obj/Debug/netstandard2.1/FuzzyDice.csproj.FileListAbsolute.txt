@@ -1,0 +1,10 @@
+F:\LethalCompanyModding\FuzzyDice\bin\Debug\netstandard2.1\Adam.FuzzyDice.deps.json
+F:\LethalCompanyModding\FuzzyDice\bin\Debug\netstandard2.1\Adam.FuzzyDice.dll
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.csproj.AssemblyReference.cache
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\MyPluginInfo.cs
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.GeneratedMSBuildEditorConfig.editorconfig
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.AssemblyInfoInputs.cache
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.AssemblyInfo.cs
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.csproj.CoreCompileInputs.cache
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\FuzzyDice.sourcelink.json
+F:\LethalCompanyModding\FuzzyDice\obj\Debug\netstandard2.1\Adam.FuzzyDice.dll
