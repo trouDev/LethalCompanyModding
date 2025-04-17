@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adam.FuzzyDice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c53d2ad963e6e2775977243be825fff9e07ee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuzzyDice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adam.FuzzyDice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

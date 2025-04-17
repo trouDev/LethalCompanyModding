@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "efHlYxLv6v0=",
+  "dgSpecHash": "fLy0mNbb0QU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\FuzzyDice\\FuzzyDice.csproj",
+  "projectFilePath": "F:\\LethalCompanyModding\\FuzzyDice\\FuzzyDice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
